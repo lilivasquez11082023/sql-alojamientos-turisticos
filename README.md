@@ -50,4 +50,4 @@ cada consulta por separado para capturar su resultado.
 
 ## Autor
 
-_(Completar con tu nombre)_
+_(PROFA. ENA VASQUEZ)_
